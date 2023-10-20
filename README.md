@@ -5,3 +5,12 @@
 2. **3 Difficulty Levels**: The game offers three difficulty levels: easy, medium, and hard. Each level varies in the number of puzzle pieces, allowing players to tailor the challenge to their own skill level.
 3. **Shuffling Puzzles**: At the beginning of each game, the puzzle pieces are automatically shuffled, adding challenge and excitement to the gameplay.
 4. **Intuitive User Interface**: Windows Forms provides a simple and intuitive interface for easy drag-and-drop puzzle piece placement.
+
+
+## Screenshots 
+
+![](Screens/sc1.png)
+![](Screens/sc2.png)
+![](Screens/sc3.png)
+![](Screens/sc4.png)
+![](Screens/sc5.png)
